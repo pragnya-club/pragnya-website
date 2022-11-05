@@ -6,4 +6,3 @@
 
 [Rohini Kumar Barla](rohinibarla)    
 [Vamsi Kishan](nrajana)   
-[Yogi Gannarapu](ygannara)
