@@ -2,6 +2,4 @@
 
 ## GITAM
 
-### Profiles
-
-[Rohini Kumar Barla](rohinibarla)  
+### Profiles  
