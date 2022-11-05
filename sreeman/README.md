@@ -5,15 +5,9 @@ Hello world 🌏, my name is Sreemannarayana, I am from Raipur, Chhattisgarh, In
 
 My vision is to make a positive impact in society and help solve problems using my skills.
 
-## My skills
-Over the years I developed skills in
-* Programming in Python and C.
-* Querying languages - SQL and basics of MQL
-* Backend web development using Django.
-* Basics of HTML, CSS and JavaScript.
-* Python libraries - Pandas, NumPy, Matplotlib
-
 ## My Interests
 * Geopolitics
 * Startups
 * Badminton
+
+![Image](https://github.com/Sreemannarayana15/pragnya-website/blob/main/sreeman/Sreeman.jpg)
