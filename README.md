@@ -3,6 +3,7 @@
 ## GITAM
 
 ### Profiles
-
 [Rohini Kumar Barla](rohinibarla)  
-[Vardhan Sanagapalli](vardhansans)
+[Vardhan Sanagapalli](vardhansans)   
+[Vamsi Kishan](nrajana)   
+[RVS Saran](vravilla)
