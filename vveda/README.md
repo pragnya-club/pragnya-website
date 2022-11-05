@@ -1,4 +1,4 @@
-# I'm Vardhan Sanagapalli
+# I'm Vardhan Sanagapalli  
 I am 2nd year student from B.Tech pursuing Data Science.
 I was born and brought up in Vijayawada and I’m currently living in Visakhapatnam 
 I'm an audiophile!
