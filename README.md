@@ -4,4 +4,5 @@
 
 ### Profiles
 
-[Rohini Kumar Barla](rohinibarla)
+[Rohini Kumar Barla](rohinibarla)  
+[Chaitanya Srinivas Lavu](clavu)  
