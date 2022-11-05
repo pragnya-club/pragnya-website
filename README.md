@@ -6,4 +6,4 @@
 
 [Rohini Kumar Barla](rohinibarla)    
 [Vamsi Kishan](nrajana)
-[Sushanth Vattikuti](svattiku)   
+  
