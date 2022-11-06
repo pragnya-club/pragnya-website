@@ -7,4 +7,4 @@ I enjoy spending time with my School Friends.
 Currently doing an training & Intership in Data Science from Yhills.  
 I want to explore in the field of data science.  
 
-[Komal](komal.jpeg)
+[komal](https://user-images.githubusercontent.com/93367596/200154779-f1f16fba-50c4-4f66-aa54-3a216c8ea549.jpeg
