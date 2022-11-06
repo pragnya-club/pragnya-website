@@ -2,6 +2,9 @@
 Hi This is Ratna Varshith  
 AI/ML enthusiast  
 love watching **F1**  
-broken humor
+broken humor  
+Member of CXR club  
+World traveler  
 
-![](hi.jpg)
+![Recent workshop named "Matrix"](hi.jpg)
+![](hi1.jpg)
