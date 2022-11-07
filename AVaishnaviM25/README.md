@@ -13,7 +13,7 @@ I feel linkedin is a better place to show my experience so do check out. As it g
 Checkoutmy past experiences here:-https://www.linkedin.com/in/ananta-vaishnavi/
 🔥 🔥🔥
 *Impressive?* 
-I'd love to have your referrals 😉.
+I'd love to have your referrals. 😉
 
 **Follow my journey** :
 https://www.linkedin.com/in/ananta-vaishnavi/
