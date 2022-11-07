@@ -12,8 +12,6 @@
 
 [Nadigama Anushka Vaishnavi](anandiga)
 
-[Ananta Vaishnavi Movva](AVaishnaviM25)
-
 [Anushka Nayak](anayak)
 
 [Nitin ASN](asanyasi)
