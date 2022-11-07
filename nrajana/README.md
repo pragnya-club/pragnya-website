@@ -6,4 +6,6 @@ Loves eating food especially biriyani.
 I like analysing people and how they think.  
 Sarcastic naturally.  
 
-![my image](vamsi.jpeg)
+![my img](untitled:pragnya-pfp.jpeg)  
+
+
