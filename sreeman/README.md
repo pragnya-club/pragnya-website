@@ -8,4 +8,4 @@ Hello world 🌏, my name is Sreemannarayana, I am from Raipur, Chhattisgarh, In
 * Startups
 * Badminton  
 
-![My image](https://github.com/Sreemannarayana15/pragnya-website/blob/main/sreeman/Sreeman.jpg)
+![My image](./Sreeman.jpg)
