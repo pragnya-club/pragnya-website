@@ -1,6 +1,4 @@
-# Chamarti Sreemannarayana
-
-<h1 align="center">Hello 👋, I'm Sreemannarayana</h1>
+<h1 align="center"><b>Hello 👋, I'm Sreemannarayana</b></h1>
 <h3 align="center"><i>A curious programmer searching for answers and building cool softwares</i></h3>
 
 ## About Me
