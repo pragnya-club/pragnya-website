@@ -1,5 +1,7 @@
 # Welcome to pragnya club
 
+<img src="p_club.jpg" width=20% height=20% align ="right">  
+
 ## GITAM
 
 ### Profiles
@@ -142,6 +144,6 @@
 
 [Vardhan Sanagapalli](vveda)
 
-[Yogi Gannarapu](ygannara)
+[Yogi Gannarapu](ygannara)  
 
 
