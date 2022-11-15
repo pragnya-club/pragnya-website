@@ -1,11 +1,11 @@
 # SAIRAM GINJUPALLI
-![sairam](sairam.jpeg)(width:50px,heigth:50px)  
+![sairam](sairam.jpeg)  
 ## About me :
 
 > This is Sairam ginjupalli.  
 > I have done my schooling in **DR.KKR'S GOWTHAM**, Gudavalli.    
 > I am currently pursuing B.Tech in **GITAM** university.  
-> Intereseted in web development.   
+> Interested in web development.   
 > I am a cool guy, Nature lover, wish to have fun 😊.
 
 ### links  :
