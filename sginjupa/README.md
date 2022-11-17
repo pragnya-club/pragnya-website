@@ -29,15 +29,6 @@ int main() {
     print("Hello, Pragnya club members")
 ```
 [Start  Learning  **Python**](https://www.programiz.com/python-programming)
-```html
-// HTML PROGRAM
-<head> </head>
-<html>
-<h1>Hello, Pragnya club members!</h1> 
-</html>
-}
-```
-[Start  Learning  **HTML**](https://www.w3schools.com/html/default.asp)
 
 
 
