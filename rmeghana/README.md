@@ -10,4 +10,4 @@ But more than that exploring more tools while editing photos and videos is what 
 I like to move objects through animation  
 Reading books the one thing that always keeps me away from procrastination  
 I apprecitiate a good literature and good poetic touch in songs.  
-![] (me.jpg)
+![Profile](me.jpg)
