@@ -1,11 +1,11 @@
 # SAIRAM GINJUPALLI
-![sairam](sairam.jpeg)(width:50px,heigth:50px)  
+![sairam](sairam.jpeg)  
 ## About me :
 
 > This is Sairam ginjupalli.  
 > I have done my schooling in **DR.KKR'S GOWTHAM**, Gudavalli.    
 > I am currently pursuing B.Tech in **GITAM** university.  
-> Intereseted in web development.   
+> Interested in web development.   
 > I am a cool guy, Nature lover, wish to have fun 😊.
 
 ### links  :
@@ -29,15 +29,6 @@ int main() {
     print("Hello, Pragnya club members")
 ```
 [Start  Learning  **Python**](https://www.programiz.com/python-programming)
-```html
-// HTML PROGRAM
-<head> </head>
-<html>
-<h1>Hello, Pragnya club members!</h1> 
-</html>
-}
-```
-[Start  Learning  **HTML**](https://www.w3schools.com/html/default.asp)
 
 
 
