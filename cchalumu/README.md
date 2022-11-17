@@ -13,3 +13,4 @@ Rather than doing courses related to my degree, I found my interests and passion
 
 Thank you once again.  
 
+![My image](./CR%20Charan.jpg)
